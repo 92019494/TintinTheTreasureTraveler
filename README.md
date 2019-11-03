@@ -1,2 +1,4 @@
 # TintinTheTreasureTraveler
-Game Project
+First game built with unity
+
+
